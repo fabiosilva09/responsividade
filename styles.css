@@ -12,7 +12,7 @@
 
 .container-left {
     display: inline-block;
-    width: 60%;
+    width: 70%;
     padding-left: 130px;
     margin-top: 15%;
 }
@@ -58,7 +58,7 @@ p {
     border: none;
     cursor: pointer;
     border-radius: 30px;
-    background-color: aqua;
+    background-color: rgb(61, 0, 73);
 }
 
 a {
